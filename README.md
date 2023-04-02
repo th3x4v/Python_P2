@@ -8,21 +8,33 @@ Scraping of books data from http://books.toscrape.com/
 ***
 This program allows to get book data 
 ● product_page_url
+
 ● universal_ product_code (upc)
+
 ● title
+
 ● price_including_tax
+
 ● price_excluding_tax
+
 ● number_available
+
 ● product_description
+
 ● category
+
 ● review_rating
+
 ● image_url
 
 ### How it works
 ***
 Run scrap_book.py
+
 Define the category of the books you want to get
+
 The data will be available in folder: ./Python_P2/book
+
 ### Installation
 ***
 A little intro about the installation. 
