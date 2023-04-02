@@ -6,9 +6,8 @@ Scraping of books data from http://books.toscrape.com/
 3. [Installation](#installation)
 ### General Info
 ***
-This program allows to get book data 
+This program allows to get book data
 ● product_page_url
-
 ● universal_ product_code (upc)
 
 ● title
