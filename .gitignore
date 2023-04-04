@@ -1,0 +1,11 @@
+# ignore all files in any directory named venv
+venv/
+
+# ignore all files in any directory named book
+book/
+
+# ignore all .csv files
+*.csv
+
+# ignore all .html files
+*.html

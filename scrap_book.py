@@ -186,6 +186,8 @@ def get_product_data(product_page_url):
             product_description = ""
 
         # Récupération du rating
+        #p_rating["class"][1]
+
         rating = soup.find_all("div", class_="col-sm-6 product_main")
         for item in rating:
             if item.find('p', class_='star-rating One'):
