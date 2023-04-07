@@ -28,6 +28,20 @@ This program allows to get book data
 
 ● image_url
 
+### Installation
+***
+A little intro about the installation:
+Install Python
+Run the following command line in the terminal:
+```
+$ git clone https://github.com/th3x4v/Python_P2.git
+$ cd ../Python_P2
+$ python -m venv .venv
+$ source env/bin/activate
+$ pip install -r requirements.txt
+```
+***
+
 ### How it works
 ***
 Run scrap_book.py
@@ -36,10 +50,3 @@ Define the category of the books you want to get
 
 The data will be available in folder: ./Python_P2/book
 
-### Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://github.com/th3x4v/Python_P2.git
-$ cd ../Python_P2
-```
