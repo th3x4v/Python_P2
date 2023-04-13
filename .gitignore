@@ -16,5 +16,7 @@ book/
 # ignore all .csv files
 *.csv
 
-# ignore all .html files
+# ignore all files
 *.html
+*.zip
+*.pdf

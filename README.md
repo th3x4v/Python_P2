@@ -2,8 +2,8 @@
 Scraping of books data from http://books.toscrape.com/
 ## Table of Contents
 1. [General Info](#general-info)
-2. [How it works](#How-it-works)
-3. [Installation](#installation)
+2. [Installation](#installation)
+3. [How it works](#How-it-works)
 ### General Info
 ***
 This program allows to get book data
